@@ -1,0 +1,1 @@
+setAutoThreshold("MaxEntropy dark");

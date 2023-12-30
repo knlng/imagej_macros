@@ -1,0 +1,1 @@
+run("Delete Slice", "delete=channel");

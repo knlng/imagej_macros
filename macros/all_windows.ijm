@@ -12,7 +12,7 @@ selectImage(imgArray[i]);
 
 // INSERT MACRO HERE
 
-run("Grouped Z Project...", "projection=[Sum Slices]");
-saveAs("Tiff");
+Stack.setDisplayMode("color");
+Stack.setChannel(2);
 
 }
